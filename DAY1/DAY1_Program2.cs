@@ -1,5 +1,5 @@
 // class DAY1_Program2{
-//     public static void Main(String[] args){
+//     public static void Main(String[] args){ 
 //         int myNum;
 //         myNum = 5;
 //         double myDoubleNum = 5.99D;

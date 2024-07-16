@@ -2,7 +2,7 @@
 using System.Xml.Serialization;
 
 // namespace TEST{
-// class DAY1_Program1{
+// class DAY1_Program1{ 
 //     static void Main(string[] args){
 //         String man ="아저씨2";
 //         Console.WriteLine("Hello, World2!");
