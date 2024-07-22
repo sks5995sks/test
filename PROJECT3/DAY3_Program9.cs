@@ -22,11 +22,12 @@ public class DAY3_Program9{
         student std = new student();
 
         //패스워드 감지
+        //bool login = false;//상태 변수
         Console.WriteLine("로그인 필요, 패스워드를 입력하세요 : ");
         int a = 0;
         do{
             a = Convert.ToInt32(Console.ReadLine());
-        }while(std.get_psw()!=a);
+        }while(std.get_psw()!=a);//while(!login);
 
         std.menu();
 
