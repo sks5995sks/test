@@ -37,7 +37,7 @@
 //     }
 //     public static void outputStudentINFO(ref String[] name,ref int[] score,int idx){
 //         int sum = 0;
-//         for(int i=0;i<3;i++){
+//         for(int i=0;i<idx;i++){
 //             Console.WriteLine("{0}번 학생의 이름 : {1}, 점수 : {2}",i,name[i],score[i]);
 //             sum += score[i];
 //         }
