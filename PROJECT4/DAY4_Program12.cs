@@ -4,6 +4,8 @@
 //         w.Attack();
 //         Gun g = new Gun(); // 총 객체 생성
 //         g.Attack(); // 총 객채에서 기본 공격
+//         Knife k = new Knife();
+//         k.Attack();
 //     }
 // }
 // class Weapon{
